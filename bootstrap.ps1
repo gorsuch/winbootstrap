@@ -66,4 +66,3 @@ Install-Cygwin
 Rebase
 Create-RootDirectory
 Register-Sshd
-Restart-Computer
